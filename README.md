@@ -93,5 +93,8 @@ ed in particolare dell'architettura che abbiamo realizzato (qualità
   che l'architettura dovrà dimostrare di possedere.
 
 ## Autori
-Munari Stefano : parte MySQL
-Vedovato Fabio : parte PHP  
+*Munari Stefano* : parte MySQL  
+*Vedovato Fabio* : parte PHP  
+
+## Licenza
+[Tutti i files .sql sono rilasciati sotto licenza GPLv3](https://github.com/StefanoMunari/PragmaDB/blob/master/LICENSE)
